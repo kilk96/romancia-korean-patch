@@ -17,7 +17,7 @@ GitHub가 자동으로 제공하는 `Source code.zip`은 한글화 패치가 아
 
 합법적으로 보유하신 일본판 MSX2 ROM을 준비해 주세요. 파일명은 ROM을 정리한 목록이나 보관 방식에 따라 다를 수 있으므로, 이름보다 아래의 파일 크기와 SHA-256 값이 일치하는지 확인해 주세요.
 
-- No-Intro 표기명: `Dragon Slayer Jr. - Romancia (Japan).rom`
+- No-Intro 데이터베이스 표기 예: `Dragon Slayer Jr. - Romancia (Japan).rom`
 - 다른 표기 예: `Romancia (Japan).rom`
 - 파일 크기: 131,072바이트
 - SHA-256: `097060b1c8d6b0728e8bfc9dc726389cf439515845e3686aade2f7e6403f3cb6`
