@@ -4,7 +4,7 @@ MSX2 일본판 《로맨시아》의 게임 대사를 한국어로 즐기실 수
 
 ## 다운로드
 
-[최신 패치 다운로드](https://github.com/kilk96/romancia-korean-patch/releases/latest)의 **Assets**에서 다음 중 하나를 받아 압축을 풀어 주세요.
+[최신 패치 다운로드](https://github.com/kilk96/romancia-korean-patch/releases/latest)의 **Assets**(첨부 파일)에서 다음 중 하나를 받아 압축을 풀어 주세요.
 
 | 파일 | 적용 도구 |
 |---|---|
